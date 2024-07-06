@@ -7,7 +7,14 @@ script.on_event(defines.events.on_player_created, function(event)
 
 		items = {
 			{"power-armor-mk2", 1},
-			{"construction-robot", 100},
+			{"construction-robot", 150},
+			{"spidertron", 1},
+			{"spidertron-remote", 1},
+			{"fusion-reactor-equipment", 1},
+			{"energy-shield-mk2-equipment", 2},
+			{"personal-roboport-mk2-equipment", 2},
+			{"personal-laser-defense-equipment", 4},
+			{"battery-mk2-equipment", 6},
 		}
 		armor = {
 			{"fusion-reactor-equipment"},
@@ -52,7 +59,14 @@ script.on_event(defines.events.on_cutscene_cancelled, function(event)
 
 	items = {
 		{"power-armor-mk2", 1},
-		{"construction-robot", 100},
+		{"construction-robot", 150},
+		{"spidertron", 1},
+		{"spidertron-remote", 1},
+		{"fusion-reactor-equipment", 1},
+		{"energy-shield-mk2-equipment", 2},
+		{"personal-roboport-mk2-equipment", 2},
+		{"personal-laser-defense-equipment", 4},
+		{"battery-mk2-equipment", 6}
 	}
 	armor = {
 		{"fusion-reactor-equipment"},
