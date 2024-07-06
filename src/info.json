@@ -1,0 +1,11 @@
+{
+    "name": "TurboMegaStartOP",
+    "version": "0.0.1",
+    "factorio_version": "1.1",
+    "dependencies": [ "base >= 1.1" ],
+    "title": "Turbo Mega Start OP",
+    "author": "subuserdo",
+    "contact": "josbraden@gmail.com",
+    "homepage": "https://www.joshbraden.com",
+    "description": "Start with fully loaded Power Armor Mk.2, Spidertron, and supplies to make a substantial starter base."
+}
